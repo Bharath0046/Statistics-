@@ -1,0 +1,96 @@
+types of data:
+
+1) Nominal data
+2) ordinal data
+3) Discrete data
+4) Continuous data
+
+
+
+
+ Population Mean------> (μ) = ∑X / N
+
+example:  the population mean would be (1+2+3+4+5)/5=3
+
+
+
+
+ Sample Mean-----------> x̄ = ( Σ xi ) / n.
+
+example:  sample of three numbers from this dataset, say {1,2,3},then the sample mean would be (1+2+3)/3=2
+
+
+
+SKEW:::--->
+
+
+1) if skew=0 then it is normally distributed and fairly symterical around mean.
+
+2) if skew =+ or- 0 to 0.5 then it is moderately symentrical around mean.
+
+3) if skew >+or- 0.5 then it is not normally distributed.
+
+
+
+
+KURTOSIS:::----->
+
+
+1) if kurtosis = 0 then no outliers then it is normaly distributed.
+
+2) if kurtosis >3 then it is having more outliers.
+
+3) if kurtosis <3 then it is having less outliers.
+
+
+
+
+Q)) find the variance and standard deviation of all the posibilities of a rolling a dice?
+
+Ans)  posibility outcomes of rolling a dice--->{1,2,3,4,5,6}-
+
+	Mean->21/6=3.5
+	
+	variance--> {1,2,3,4,5,6}-3.5= {(2.5)^2, (1.5)^2, (0.5)^2, (0.5)^2, (1.5)^2, (2.5)^2	= 2.917
+     	
+	standard deviation = 1.708
+
+
+HW::-->Q) find the variance and standard deviation of all the even numbers les than 10 ??
+
+
+
+
+ Types of random variables ::
+
+1) discrete random variable
+2) continuous random variable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
